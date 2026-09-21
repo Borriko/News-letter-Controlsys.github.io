@@ -1,2 +1,1258 @@
-# News-letter-Controlsys.github.io
-Esta es la firma que desarrollé para la empresa Controlsys durante las practicas que realicé durante el primer año del grado superior DAW
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        a {
+            text-decoration: none;
+            color: rgb(88, 88, 88);
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td>
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+                    <tr>
+                        <td height="20" style="background-color: #90bc4b;"></td>
+                    </tr>
+                    <tr width="100%">
+                        <td align="center" style="background-color: #90bc4b; height:70px;">
+                            <table width="790px" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td align="center">
+                                        <table width="800" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <td height="70" align="left" valign="middle">
+                                                    <font color="#ffffff" size="4" face="Arial, sans-serif">
+                                                        &nbsp;&nbsp;Febrero 2026
+                                                    </font>
+                                                </td>
+                                                <td align="right" valign="middle">
+                                                    <a href="https://www.controlsys.es/"
+                                                        style="color:#ffffff; font-family:Arial, Helvetica, sans-serif, sans-serif; font-size:16px; text-decoration:none;">
+                                                        <font color="#ffffff" size="4" face="Arial, sans-serif">
+                                                            Visita nuestra web!&nbsp;&nbsp;
+                                                        </font>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#90bc4b" align="center">
+
+
+
+                            <!-- CONTENEDOR PRINCIPAL -->
+                            <table width="800" cellpadding="0" cellspacing="0" border="0" align="center"
+                                style="width:800px; background-color:#ffffff; table-layout:fixed; border-collapse:collapse;">
+                                <tr>
+                                    <td>
+
+                                        <!-- CABECERA OSCURA -->
+                                        <table width="800" cellpadding="0" cellspacing="0" border="0"
+                                            style="width:800px; table-layout:fixed; border-collapse:collapse;">
+                                            <tr>
+                                                <td width="30"></td>
+                                                <!-- LOGO IZQUIERDA -->
+                                                <td rowspan="2" width="200" valign="top" style="padding:0; margin:0;">
+                                                    <br><br>
+                                                    <img src="http://demos.controlsys.es/boletin2026/Imagenes/logo-controlys-cabecera.png"
+                                                        width="170"
+                                                        style="display:block; border:0; margin:0; padding:0;">
+                                                </td>
+
+                                                <!-- ESPACIO CENTRAL (Necesario para Outlook) -->
+                                                <td width="250" style="font-size:0; line-height:0;">&nbsp;</td>
+
+                                                <!-- PESTAÑA DERECHA -->
+                                                <td rowspan="2" width="300" valign="top" align="right"
+                                                    style="padding:0; margin:0;">
+                                                    <img src="http://demos.controlsys.es/boletin2026/Imagenes/pestaña-boletin-informativo.png"
+                                                        width="180" height="110"
+                                                        style="display:block; border:0; margin:0; padding:0;">
+                                                    <br>
+                                                    <br>
+                                                    <br>
+                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td><a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266469/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/redes_sociales/facebook.png"
+                                                                        width="35" style="display:block; border:0;"></a>
+                                                            </td>
+                                                            <td width="18"></td>
+                                                            <td><a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266472/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/redes_sociales/instagram.png"
+                                                                        width="35" style="display:block; border:0;"></a>
+                                                            </td>
+                                                            <td width="18"></td>
+                                                            <td><a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266470/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/redes_sociales/twitter.png"
+                                                                        width="35"
+                                                                        style=" display:block; border:0;"></a>
+                                                            </td>
+                                                            <td width="18"></td>
+                                                            <td><a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266473/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/redes_sociales/youtube.png"
+                                                                        width="35""
+                                                                                style=" display:block; border:0;"></a>
+                                                            </td>
+                                                            <td width="18"></td>
+                                                            <td><a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266471/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/redes_sociales/linkedin.png"
+                                                                        width="35" style="display:block; border:0;"></a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td></td>
+                                            </tr>
+
+                                            <!-- ESPACIO -->
+                                            <tr>
+                                                <td colspan="3" height="30"
+                                                    style="height:30px; font-size:0; line-height:0;">&nbsp;</td>
+                                            </tr>
+
+                                            <!-- LOGO + REDES -->
+                                            <tr>
+                                                <td></td>
+                                                <td colspan="3" align="center">
+                                                    <table width="700" cellpadding="0" cellspacing="0" border="0"
+                                                        style="width:700px; table-layout:fixed; border-collapse:collapse;">
+
+
+
+                                                        <!-- SEPARADOR -->
+                                                        <tr>
+                                                            <td colspan="2">
+                                                                <table width="700" cellpadding="0" cellspacing="0"
+                                                                    border="0" style="border-collapse:collapse;">
+                                                                    <tr>
+                                                                        <td height="1" style="background:#666565;"></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+
+                                                        <!-- ESPACIO FINAL -->
+                                                        <tr>
+                                                            <td colspan="2" height="30"></td>
+                                                        </tr>
+
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                    </td>
+                                </tr>
+                            </table>
+
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center">
+
+                            <table width="800" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td width="40%" height="370px" bgcolor="#518f66"
+                                        style="background-color:#eab12c; text-align: left;">
+
+                                        <h1 align="left" style="font-family: Arial, Helvetica, sans-serif; 
+                                            margin-left: 20px; 
+                                            margin-right: 40px; 
+                                            font-size: 20px; 
+                                            color: #ffffff;">
+                                            TEXT WITH TITLE EXAMPLE
+                                        </h1>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; 
+                                            margin-left: 20px; 
+                                            margin-right: 40px; 
+                                            font-size: 17px; 
+                                            color: #ffffff;">
+                                            Lorem ipsum dolor sit amet, consetetur adipisicing elit, sed do.
+                                        </p style="font-family: Arial, Helvetica, sans-serif; 
+                                            margin-left: 20px; 
+                                            margin-right: 40px; 
+                                            font-size: 17px; 
+                                            color: #ffffff;">
+                                        <br>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; 
+                                            margin-left: 20px; 
+                                            margin-right: 40px; 
+                                            font-size: 17px; 
+                                            color: #ffffff;">
+                                            Lorem ipsum dolor sit amet, consetetur adipisicing elit, sed do.
+                                        </p>
+                                        <br>
+                                        <p style="font-family: Arial, Helvetica, sans-serif; 
+                                            margin-left: 20px; 
+                                            margin-right: 40px; 
+                                            font-size: 17px; 
+                                            color: #ffffff;">
+                                            Lorem ipsum dolor sit amet, consetetur adipisicing elit, sed do.
+                                        </p>
+
+                                    </td>
+
+
+                                    <td width="300px" height="370px" valign="top">
+
+                                        <table align="right" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <td>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    <img width="500"
+                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/banner-ventajas-copilot-bol.jpg"
+                                                        alt="" style="display:block;">
+                                                </td>
+                                            </tr>
+
+
+                                            <tr>
+                                                <td>
+                                                    <br><br>
+                                                    <table width="400px" cellpadding="0" cellspacing="0" border="0"
+                                                        align="center">
+                                                        <tr>
+                                                            <td align="center">
+                                                                <h1
+                                                                    style="color: #90bc4b; font-family: Arial, Helvetica, sans-serif;font-size:20px;">
+                                                                    Ventajas de Copilot frente a otros agentes de IA
+                                                                </h1>
+                                                                <br>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 40px;">
+                                                                <p style="color: rgb(88, 88, 88);">La inteligencia
+                                                                    artificial ha dejado de ser una promesa para
+                                                                    convertirse en una herramienta real de trabajo en
+                                                                    las empresas.</p>
+                                                                <br>
+                                                                <table cellpadding="0" cellspacing="0" border="0">
+                                                                    <tr>
+                                                                        <td style=" text-align:center;">
+                                                                            <a href="https://pnel.servicios-mail.com/url/ver/11266474/178475/307e9db6fd49dc2a64d2ae8c5e25d124"
+                                                                                style="color:#eab12c; font-weight:bold; display:block; font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+                                                                                <u><i>Leer más...</i></u>
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+
+                                                            </td>
+
+                                                        </tr>
+                                                    </table>
+                                                    <br>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+
+
+                    </tr>
+                    <tr>
+                        <td height="50"></td>
+                    </tr>
+
+
+                    <tr width="100%">
+                        <td height="500" style="background-color: #f4f5ea;" valign="top">
+                            <table align="center">
+                                <tr>
+                                    <td>
+                                        <br>
+                                        <h1 style="color: rgb(88, 88, 88); font-size: 38px;">Nuestros Servicios</h1>
+                                        <table width="800" cellpadding="0" cellspacing="0" border="0"
+                                            style="border-collapse:collapse;">
+                                            <tr>
+                                                <td height="1" style="background:#666565;"></td>
+                                            </tr>
+                                        </table>
+                                        <br><br><br>
+                                        <table width="800">
+
+                                            <tr>
+
+                                                <!-- SISTEMAS -->
+                                                <td width="200px" valign="top">
+                                                    <h2
+                                                        style="color:rgb(88, 88, 88); font-family:Arial, sans-serif; font-size:20px; padding-left: 30px;">
+                                                        Sistemas
+                                                    </h2>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266485/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Servicios de Mantenimiento y Soporte</a><br>
+                                                                <a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266486/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Servidores Cloud y Virtualización</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266485/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Seguridad Cloud</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266489/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Movilidad y Teletrabajo</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266490/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Soluciones de impresión</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266491/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Seguridad redes</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266492/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Puestos de trabajo</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+
+                                                <!-- SOFTWARE -->
+                                                <td width="200px" valign="top" style="padding-left: 20px;">
+                                                    <h2
+                                                        style="color:rgb(88, 88, 88); font-family:Arial, sans-serif; font-size:20px; padding-left: 30px;">
+                                                        Software
+                                                    </h2>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266493/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Software Negocio</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266494/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    ERP Gran Empresa</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266495/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Software Gestión PYMES</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266496/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Inteligencia de negocio (BI)</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266497/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Soluciones CRM</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266498/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Gestión Documental</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266499/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Software de sistemas</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+
+                                                <!-- eSERVICES -->
+                                                <td width="200px" valign="top" style="padding-left:20px;">
+                                                    <h2
+                                                        style="color:rgb(88, 88, 88); font-family:Arial, sans-serif; font-size:20px;padding-left:30px;">
+                                                        eServices
+                                                    </h2>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266500/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Registro de dominios</a><br>
+
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266502/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Servidores VPS</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266503/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Correo electrónico Avanzado</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266504/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Diseño Web – ecommerce</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266505/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Marketing Online</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266506/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Microsoft 365</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266507/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Certificados SSL</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+
+                                                </td>
+                                                <!-- INFRAESTRUCTURAS -->
+                                                <td width="200px" valign="top" style="padding-left:20px;">
+                                                    <h2
+                                                        style="color:rgb(88, 88, 88); font-family:Arial, sans-serif; font-size:20px;padding-left:30px;">
+                                                        Infraestructuras
+                                                    </h2>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266508/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Servidores</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266509/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Soluciones Datacenter</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266510/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Cableado estructurado</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266511/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Centro de proceso de datos (CPD)</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266512/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Voz IP</a><br>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table>
+                                                        <tr>
+                                                            <td><img width="30"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/check_naranja.png"
+                                                                    alt=""></td>
+                                                            <td>
+                                                                <a
+                                                                    href="https://pnel.servicios-mail.com/url/ver/11266513/178475/307e9db6fd49dc2a64d2ae8c5e25d124">
+                                                                    Audiovisuales y cartelería digital</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+
+                                                </td>
+
+                                            </tr>
+                                            <tr height="50">
+
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                    </tr>
+
+
+
+
+
+                    <tr width="100%">
+                        <td height="450" style="background-color: #34332f;">
+                            <table width="1300" border="0" cellspacing="0" cellpadding="0" align="center"
+                                style="border-collapse: collapse; border-spacing: 0;">
+                                <tr>
+                                    <td style="line-height:0; font-size:0; padding: 0; margin: 0;">
+                                        <table width="100%" border="0" cellpadding="0" cellspacing="0"
+                                            style="background-color: #858283;">
+                                            <img width="250" height="450"
+                                                src="http://demos.controlsys.es/boletin2026/Imagenes/foto_transicion_imagen_izquierda.png"
+                                                style="display:block;">
+                                        </table>
+                                    </td>
+                                    <td height="450" style="background-color: #858283;" width="800">
+                                        <table cellpadding="0" cellspacing="0" border="0" align="center">
+                                            <tr>
+                                                <td style="padding-left: 20px;">
+
+                                                    <img width="240"
+                                                        src="http://demos.controlsys.es/boletin2026/Imagenes/visto-proyectos-controlsys.jpg"
+                                                        alt="">
+                                                </td>
+                                                <td align="center">
+                                                    <h1
+                                                        style="padding-left:20px; text-align:center; color:#ffffff; font-family: Arial, sans-serif; font-size: 35px;">
+                                                        Portofolio web &nbsp;&nbsp;
+                                                    </h1>
+                                                    <br><br>
+                                                    <table width="100%">
+                                                        <tr>
+                                                            <td style="padding-left: 20px; padding-right: 20px;">
+                                                                <p
+                                                                    style="text-align: center; color:#ffffff; font-family: Arial, sans-serif; font-size: 14px;">
+                                                                    En controlsys tenemos numerosos proyectos que <br>
+                                                                    garantizan nuestra experiencia en el sector. <br>
+                                                                </p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <br><br><br>
+                                                    <table align="center" cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td bgcolor="#eab12c"
+                                                                style="padding:8px 8px; text-align:center;">
+                                                                <a href="https://pnel.servicios-mail.com/url/ver/11266477/178475/307e9db6fd49dc2a64d2ae8c5e25d124"
+                                                                    style="color:#ffffff; font-weight:bold; text-decoration:none; display:block; font-size: 20px; font-family: Arial, Helvetica, sans-serif;">
+                                                                    Ver proyectos
+                                                                </a>
+                                                            </td>
+                                                            <td width="48"></td>
+                                                        </tr>
+                                                    </table>
+
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td>
+                                        <img width="250" height="450"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/foto_transicion_imagen_derecha.png"
+                                            alt="" style="display: block;">
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td height="50"></td>
+                    </tr>
+
+                    <tr align="center">
+                        <td>
+                            <table width="800">
+                                <tr>
+                                    <td valign="top">
+                                        <img src="http://demos.controlsys.es/boletin2026/Imagenes/lenovo-refurbished-ordenador-horizontal.png"
+                                            alt="">
+                                    </td>
+                                    <td rowspan="2">
+                                        <img height="550px" width="350" src="http://demos.controlsys.es/boletin2026/Imagenes/banner-lenovo-refurbished-bol.jpg"
+                                            alt="">
+                                    </td>
+                                </tr>
+                                
+                                <tr>
+                                    <td>
+                                        <table width="100%">
+                                            <tr>
+                                                <td height="40"></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="130" height="130" style="background-color: #90bc4b;"
+                                                    align="center">
+                                                    <a
+                                                        href="https://pnel.servicios-mail.com/url/ver/11266475/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                            width="130"
+                                                            src="http://demos.controlsys.es/boletin2026/Imagenes/icono-i.png"
+                                                            alt=""></a>
+                                                    <a href="https://pnel.servicios-mail.com/url/ver/11266475/178475/307e9db6fd49dc2a64d2ae8c5e25d124"
+                                                        style="color:#ffffff; font-weight:bold; display:block; font-size: 16px; font-family: Arial, Helvetica, sans-serif; padding-bottom: 10px;">
+                                                        Leer más...
+                                                        <br><br>
+                                                    </a>
+                                                </td>
+                                                <td align="center">
+                                                    <h2 style="text-align: center; margin-right: 65px;color: #eab12c;">
+                                                        Lenovo Refurbished</h2>
+                                                    <p
+                                                        style="text-align: justify; font-size: 14px; color: rgb(88, 88, 88);margin-left: 20px;margin-right: 30px;">
+                                                        En Controlsys incorporamos equipos Lenovo Refurbished,
+                                                        revisados y certificados para ofrecer alto rendimiento a un
+                                                        menor coste...</p>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="50"></td>
+                    </tr>
+                    <tr>
+                        <td width="100%" style="background-color: #f4f5ea;" align="center">
+                            <table>
+                                <tr>
+                                    <td height="100"></td>
+                                </tr>
+                                <tr align="center">
+                                    <td>
+                                        <table width="800">
+                                            <tr align="center">
+                                                <td>
+                                                    <table>
+                                                        <tr>
+                                                            <td>
+                                                                <img width="200"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/controlsys-cloud-sin-fondo.png"
+                                                                    alt="">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a style="font-size: 20px; color: rgb(88, 88, 88);"
+                                                                    href="">www.controlsyscloud.com</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+
+
+                                                </td>
+                                                <td>
+                                                    <table>
+                                                        <tr>
+                                                            <td>
+                                                                <img width="200"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/m365-controlsys-sin-fondo.png"
+                                                                    alt="">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a style="font-size: 20px; color: rgb(88, 88, 88);"
+                                                                    href="">www.controlsyscloud.com</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                <td>
+                                                    <table>
+                                                        <tr>
+                                                            <td>
+                                                                <img width="200"
+                                                                    src="http://demos.controlsys.es/boletin2026/Imagenes/controlsys-365-sin-fondo.png"
+                                                                    alt="">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <a style="font-size: 20px; color: rgb(88, 88, 88);"
+                                                                    href="">www.controlsyscloud.com</a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="100"></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="50"></td>
+                    </tr>
+                    <tr align="center">
+                        <td>
+                            <table width="800">
+                                <tr>
+                                    <td rowspan="2">
+                                        <img height="550" width="350"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/banner-actualizar-software-empresarial-bol.jpg"
+                                            alt="">
+                                    </td>
+                                    <td valign="top">
+                                        <table>
+                                            <tr>
+                                                <td>
+                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                                </td>
+                                                <td>
+                                                    <img src="http://demos.controlsys.es/boletin2026/Imagenes/lenovo-refurbished-ordenador-horizontal.png"
+                                                        alt="">
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <table width="100%">
+                                            <tr>
+                                                <td height="40"></td>
+                                            </tr>
+                                            <tr>
+
+                                                <td align="center">
+                                                    <h2 style="text-align: justify; margin-left: 30px; margin-right: 20px; color: #eab12c;">
+                                                        La importancia de actualizar tu software empresarial</h2>
+                                                    <p
+                                                        style="text-align: justify; font-size: 14px; color: rgb(88, 88, 88);margin-left: 30px;margin-right: 20px;">
+                                                       En un entorno empresarial cada vez más digital, 
+                                                       trabajar con un software desactualizado ya no es 
+                                                       solo una incomodidad, es un riesgo</p>
+
+                                                </td>
+                                                <td width="130" height="130" style="background-color: #90bc4b;"
+                                                    align="center">
+                                                    <a
+                                                        href="https://pnel.servicios-mail.com/url/ver/11266476/178475/307e9db6fd49dc2a64d2ae8c5e25d124"><img
+                                                            width="130"
+                                                            src="http://demos.controlsys.es/boletin2026/Imagenes/icono-i.png"
+                                                            alt=""></a>
+                                                    <a href="https://pnel.servicios-mail.com/url/ver/11266476/178475/307e9db6fd49dc2a64d2ae8c5e25d124"
+                                                        style="color:#ffffff; font-weight:bold; display:block; font-size: 16px; font-family: Arial, Helvetica, sans-serif; padding-bottom: 10px;">
+                                                        Leer más...
+                                                        <br><br>
+                                                    </a>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+
+
+
+
+
+
+
+                    <tr>
+                        <td height="100"></td>
+                    </tr>
+
+
+                    <tr align="center">
+                        <td>
+                            <table width="800">
+                                <tr>
+                                    <td>
+                                        <h1 style="text-align: left; color: rgb(88, 88, 88); font-size: 38px;">Otras
+                                            noticias de interés</h1>
+                                        <table width="800" cellpadding="0" cellspacing="0" border="0"
+                                            style="border-collapse:collapse;">
+                                            <tr>
+                                                <td height="1" style="background:#666565;"></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td height="50"></td>
+                    </tr>
+
+                    <tr align="center">
+                        <td>
+                            <table width="800" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td>
+                                        <img width="180"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/servicios-gestionados.jpg"
+                                            alt="" style="display:block;">
+                                    </td>
+                                    <td>
+                                        <h1
+                                            style="font-size:15px; font-weight:bold; color:#90bc4b; margin-left: 30px; margin-right: 30px; font-family:Arial, sans-serif;">
+                                            Servicios Gestionados: administración centralizada y soporte <br>
+                                            especializado
+                                        </h1>
+                                        <p
+                                            style="font-size:14px; color:#585858; margin-left: 30px; margin-right: 30px; ">
+                                            Avanza a gran velocidad, mantener la infraestructura TI de tu <br>
+                                            empresa segura...
+                                        </p>
+
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="20"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img width="180"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/microsoft-potencia.jpg"
+                                            alt="" style="display:block;">
+                                    </td>
+                                    <td>
+                                        <h1
+                                            style="font-size:15px; font-weight:bold; color:#90bc4b; margin-left: 30px; margin-right: 30px; font-family:Arial, sans-serif;">
+                                            Microsoft potencia su ecosistema con GPT-5
+                                        </h1>
+                                        <p
+                                            style="font-size:14px; color:#585858; margin-left: 30px; margin-right: 30px; ">
+                                            El pasado 7 de agosto, Microsoft anunció la integración de GPT-5, <br>
+                                            el sistema de inteligencia artificial más avanzado de OpenAI...
+                                        </p>
+
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="20"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img width="180"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/aniversario-controlsys.jpg"
+                                            alt="" style="display:block;">
+                                    </td>
+                                    <td>
+                                        <h1
+                                            style="font-size:15px; font-weight:bold; color:#90bc4b; margin-left: 30px; margin-right: 30px; font-family:Arial, sans-serif;">
+                                            Controlsys celebra 25 años de innovación tecnológica
+                                        </h1>
+                                        <p
+                                            style="font-size:14px; color:#585858; margin-left: 30px; margin-right: 30px; ">
+                                            El pasado 23 de octubre de 2025, en Controlsys celebramos un hito muy <br>
+                                            especial: nuestro 25 aniversario...
+                                        </p>
+
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="20"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img width="180"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/nominado-controlsys.jpg"
+                                            alt="" style="display:block;">
+                                    </td>
+                                    <td>
+                                        <h1
+                                            style="font-size:15px; font-weight:bold; color:#90bc4b; margin-left: 30px; margin-right: 30px; font-family:Arial, sans-serif;">
+                                            Controlsys, nominada por su Excelencia e innovación en OVHcloud Backstage
+                                            2025
+                                        </h1>
+                                        <p
+                                            style="font-size:14px; color:#585858; margin-left: 30px; margin-right: 30px; ">
+                                            El pasado 5 de junio, Controlsys tuvo el honor de participar en OVHcloud
+                                            <br>
+                                            Backstage 2025...
+                                        </p>
+
+
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+
+
+
+
+
+
+                    <tr>
+                        <td height="100"></td>
+                    </tr>
+
+
+
+
+
+
+                    <tr>
+                        <td align="center" style="background-color:#4b4848; padding:30px 0;">
+                            <table width="600" cellpadding="0" cellspacing="0" border="0" align="center">
+
+                                <!-- Logo -->
+                                <tr>
+                                    <td align="center">
+                                        <img width="250"
+                                            src="http://demos.controlsys.es/boletin2026/Imagenes/controlsys-logo-sencillo-sin-fondo.png"
+                                            alt="">
+                                        <p style="color:#ffffff; margin:10px 0 0 0; font-size:19px;">
+                                            La respuesta informática
+                                        </p>
+                                    </td>
+                                </tr>
+
+                                <!-- Separador -->
+                                <tr>
+                                    <td height="25"></td>
+                                </tr>
+                                <tr>
+                                    <td height="3" bgcolor="#2e7d32"></td>
+                                </tr>
+                                <tr>
+                                    <td height="25"></td>
+                                </tr>
+
+                                <!-- Columnas -->
+                                <tr>
+                                    <td align="center">
+                                        <table width="1200px" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+
+                                                <!-- Columna 1 -->
+                                                <td width="25%" align="center" valign="top">
+                                                    <span style="color:#b4b2b2; font-size:16px; font-weight:bold;">953
+                                                        24 98
+                                                        28</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span
+                                                        style="color:#ffffff; font-size:14px; font-weight:bold;">Controlsys
+                                                        Jaén</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span style="color:#b4b2b2; font-size:13px;">
+                                                        Pol. Ind. Los Olivares<br>
+                                                        C/ Torredonjimeno 35<br>
+                                                        23009 - Jaén
+                                                    </span>
+                                                </td>
+
+                                                <td width="25%" align="center" valign="top">
+                                                    <span style="color:#b4b2b2; font-size:16px; font-weight:bold;">957
+                                                        76 47
+                                                        50</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span
+                                                        style="color:#ffffff; font-size:14px; font-weight:bold;">Controlsys
+                                                        Córdoba</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span style="color:#b4b2b2; font-size:13px;">
+                                                        Pol. Ind. Tecnocórdoba <br>
+                                                        C/ Suecia parc. 159-160 <br>
+                                                        14014 - Las Quemadas - Córdoba
+
+                                                    </span>
+                                                </td>
+                                                <td width="25%" align="center" valign="top">
+                                                    <span style="color:#b4b2b2; font-size:16px; font-weight:bold;">954
+                                                        60 00
+                                                        05</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span
+                                                        style="color:#ffffff; font-size:14px; font-weight:bold;">Controlsys
+                                                        Sevilla</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span style="color:#b4b2b2; font-size:13px;">
+                                                        Avenida San Francisco Javier 20 <br>
+                                                        3ª Planta <br>
+                                                        41018 - Sevilla
+
+                                                    </span>
+                                                </td>
+                                                <td width="25%" align="center" valign="top">
+                                                    <span style="color:#b4b2b2; font-size:16px; font-weight:bold;">952
+                                                        00 02 10</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span
+                                                        style="color:#ffffff; font-size:14px; font-weight:bold;">Controlsys
+                                                        Málaga</span><br>
+                                                    <table>
+                                                        <tr>
+                                                            <td height="5"></td>
+                                                        </tr>
+                                                    </table>
+                                                    <span style="color:#b4b2b2; font-size:13px;">
+                                                        C/ Alejandro Dumas <br>
+                                                        Nº 17 Bloque 1 Oficinas <br>
+                                                        29004 - Málaga
+
+                                                    </span>
+                                                </td>
+
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+        </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+
+</body>
+
+</html>
